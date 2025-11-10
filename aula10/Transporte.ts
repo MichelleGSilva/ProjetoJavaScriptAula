@@ -21,9 +21,9 @@ export class Transporte {
 
    public visualizar(): void {
 		
-		console.log("\n\n************************************************************");
+		console.log("\n\n************************************************************")
 		console.log("Dados do Meio de Transporte:");
-		console.log("****************************************************************");
-		console.log("Capacidade (número de passageiros): " + this._capacidade);
+		console.log("****************************************************************")
+		console.log("Capacidade (número de passageiros): " + this._capacidade)
 	}
 }
